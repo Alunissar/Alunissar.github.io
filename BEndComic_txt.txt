@@ -1,6 +1,10 @@
-R_Vo faze sopão pra janta
-L_Blz
-Flip
-L_Ô jão, cadê a sopa?
-R_Não po so pão
-Flip
+{
+  "story": [
+    "R_Vo faze sopão pra janta",
+    "L_Blz",
+    "Flip",
+    "L_Ô jão, cadê a sopa?",
+    "R_Não po so pão",
+    "Flip"
+  ]
+}
